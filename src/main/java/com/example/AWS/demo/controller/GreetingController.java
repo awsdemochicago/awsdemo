@@ -12,7 +12,9 @@ public class GreetingController {
 	public String getGreetings() {
 		
 		
-		return "Hello";
+
+		return "Hello World";
+
 	}
 
 }
