@@ -12,7 +12,13 @@ public class GreetingController {
 	public String getGreetings() {
 		
 		
+<<<<<<< HEAD
 		return "Hello World";
+=======
+
+		return "Hello World";
+
+>>>>>>> 408a1c789a2a65980820deed75d459316fb5d6cf
 	}
 
 }
